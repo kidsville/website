@@ -13,7 +13,7 @@
 
 	"routes": [
 		{
-			"pattern": "kidsville.org",
+			"pattern": "worker.kidsville.org",
 			"custom_domain": true
 		}
 	]	
